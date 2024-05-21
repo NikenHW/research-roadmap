@@ -1,0 +1,4 @@
+Belajar teknis terkait Software Developer:
+ - Mengenal dan instalasi repository dan versioning GitHub dan GIT
+ - Mempelajari front end developer dengan alur belajar Frontend: HTML, CSS, JavaScript (using frameworks like React)
+ - Mempelajari Backend: Node.js (Express.js),
